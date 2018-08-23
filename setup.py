@@ -46,14 +46,14 @@ setup(
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
-    ]
+    ],
     packages=find_packages(exclude=['tests']),
     install_requires = requires,
     entry_points={
         'console_scripts': [
             'pyRegions=pyRegions.app:main',
-        ]
-    }
+        ],
+    },
     test_suite='nose.collector',
     keywords=['regions', 'Russia', 'telegram', 'bot']
 )
