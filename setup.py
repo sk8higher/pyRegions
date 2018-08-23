@@ -37,7 +37,7 @@ setup(
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Intended Audience :: End Users/Desktop',
-        'License :: OSI Approved :: GNU General Public License v 3 (GPLv3)',
+        'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
         'Natural Language :: Russian',
         'Operation System :: OS Independent',
         'Programming Language :: Python',
