@@ -27,10 +27,10 @@ requires = [
 
 setup(
     name='pyRegions',
-    version='1.0.1',
-    description=' ',
+    version='1.0.2',
+    description='Telegram Bot - Car registration regions of Russia',
     url='https://github.com/sk8higher/pyRegions',
-    download_url='https://github.com/sk8higher/pyRegions/archive/1.0.1.tar.gz',
+    download_url='https://github.com/sk8higher/pyRegions/archive/1.0.2.tar.gz',
     author='Nelly Simkova',
     author_email='sk8higher@iballwasrawt.ru',
     license='GPL-3.0',
@@ -47,13 +47,12 @@ setup(
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
     ],
-    packages=find_packages(exclude=['tests']),
+    packages=find_packages(),
     install_requires = requires,
     entry_points={
         'console_scripts': [
             'pyRegions=pyRegions.app:main',
         ],
     },
-    test_suite='nose.collector',
     keywords=['regions', 'Russia', 'telegram', 'bot']
 )
