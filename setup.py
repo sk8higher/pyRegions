@@ -30,7 +30,7 @@ setup(
     version='1.0.1',
     description=' ',
     url='https://github.com/sk8higher/pyRegions',
-    download_url='https://github.com/sk8higher/pyRegions/archive/1.0.0.tar.gz',
+    download_url='https://github.com/sk8higher/pyRegions/archive/1.0.1.tar.gz',
     author='Nelly Simkova',
     author_email='sk8higher@iballwasrawt.ru',
     license='GPL-3.0',
