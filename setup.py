@@ -27,7 +27,7 @@ requires = [
 
 setup(
     name='pyRegions',
-    version='1.0.0',
+    version='1.0.1',
     description=' ',
     url='https://github.com/sk8higher/pyRegions',
     download_url='https://github.com/sk8higher/pyRegions/archive/1.0.0.tar.gz',
@@ -39,7 +39,7 @@ setup(
         'Intended Audience :: End Users/Desktop',
         'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
         'Natural Language :: Russian',
-        'Operation System :: OS Independent',
+        'Operating System :: OS Independent',
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.4',
