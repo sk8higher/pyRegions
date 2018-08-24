@@ -27,10 +27,10 @@ requires = [
 
 setup(
     name='pyRegions',
-    version='1.0.2',
+    version='1.0.3',
     description='Telegram Bot - Car registration regions of Russia',
     url='https://github.com/sk8higher/pyRegions',
-    download_url='https://github.com/sk8higher/pyRegions/archive/1.0.2.tar.gz',
+    download_url='https://github.com/sk8higher/pyRegions/archive/1.0.3.tar.gz',
     author='Nelly Simkova',
     author_email='sk8higher@iballwasrawt.ru',
     license='GPL-3.0',

@@ -19,8 +19,8 @@
 ##
 
 import telebot
-from bottoken import bot_token
-from ru import ruRegions
+from pyRegions.bottoken import bot_token
+from pyRegions.ru import ruRegions
 
 bot = telebot.TeleBot(bot_token)
 
@@ -46,4 +46,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
