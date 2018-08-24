@@ -1,7 +1,8 @@
 # pyRegions
 Бот для Telegram, написаный на Python.
 # Пример работы
-[@pythonregionsbot]("https://github.com/sk8higher/pyRegions/blob/master/readmefiles/Screenshot_20180824-121021__01.jpg")
+<img src="https://github.com/sk8higher/pyRegions/blob/master/readmefiles/Screenshot_20180824-121021__01.jpg">
+@pythonregionsbot
 # Установка
 Из PyPI:
 `pip install pyregions`
