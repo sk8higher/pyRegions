@@ -41,7 +41,7 @@ def reply(message):
 
 
 def main():
-    bot.polling()
+    bot.polling(True)
 
 
 if __name__ == '__main__':
